@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Burger",
+    "amt": 120,
+    "shop": "Burger Hub",
+    "ftype": "Fast Food",
+    "pic": "/images/1.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Pizza",
+    "amt": 350,
+    "shop": "Pizza Corner",
+    "ftype": "Fast Food",
+    "pic": "/images/2.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 3,
+    "name": "Paneer Roll",
+    "amt": 150,
+    "shop": "Wrap Delight",
+    "ftype": "Snack",
+    "pic": "/images/3.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Cake",
+    "amt": 500,
+    "shop": "Sweet Bites",
+    "ftype": "Dessert",
+    "pic": "/images/4.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 5,
+    "name": "Veg Sandwich",
+    "amt": 90,
+    "shop": "Healthy Snacks",
+    "ftype": "Snack",
+    "pic": "/images/5.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 6,
+    "name": "Grilled Chicken",
+    "amt": 400,
+    "shop": "Grill Master",
+    "ftype": "Main Course",
+    "pic": "/images/6.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 7,
+    "name": "Pasta Alfredo",
+    "amt": 300,
+    "shop": "Italian Delight",
+    "ftype": "Main Course",
+    "pic": "/images/7.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 8,
+    "name": "Mango Smoothie",
+    "amt": 180,
+    "shop": "Juice World",
+    "ftype": "Beverage",
+    "pic": "/images/8.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 9,
+    "name": "French Fries",
+    "amt": 100,
+    "shop": "Crispy Treats",
+    "ftype": "Snack",
+    "pic": "/images/9.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 10,
+    "name": "Cheese Burst Pizza",
+    "amt": 400,
+    "shop": "Pizza House",
+    "ftype": "Fast Food",
+    "pic": "/images/10.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 11,
+    "name": "Paneer Tikka",
+    "amt": 280,
+    "shop": "Tandoori Express",
+    "ftype": "Appetizer",
+    "pic": "/images/11.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 12,
+    "name": "Ice Cream Sundae",
+    "amt": 200,
+    "shop": "Dessert Delight",
+    "ftype": "Dessert",
+    "pic": "/images/12.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 13,
+    "name": "Cold Coffee",
+    "amt": 150,
+    "shop": "Coffee Point",
+    "ftype": "Beverage",
+    "pic": "/images/13.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Biryani",
+    "amt": 450,
+    "shop": "Biryani House",
+    "ftype": "Main Course",
+    "pic": "/images/14.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 15,
+    "name": "Paneer Butter Masala",
+    "amt": 320,
+    "shop": "Curry Palace",
+    "ftype": "Main Course",
+    "pic": "/images/15.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 16,
+    "name": "Fruit Salad",
+    "amt": 180,
+    "shop": "Healthy Treats",
+    "ftype": "Dessert",
+    "pic": "/images/16.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 17,
+    "name": "Chicken Wrap",
+    "amt": 160,
+    "shop": "Wrap Delight",
+    "ftype": "Snack",
+    "pic": "/images/17.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 18,
+    "name": "Blueberry Muffin",
+    "amt": 120,
+    "shop": "Baked Bliss",
+    "ftype": "Dessert",
+    "pic": "/images/18.jpg",
+    "latest": "yes"
+  },
+  {
+    "id": 19,
+    "name": "Lemonade",
+    "amt": 80,
+    "shop": "Juice World",
+    "ftype": "Beverage",
+    "pic": "/images/19.jpg",
+    "latest": "no"
+  },
+  {
+    "id": 20,
+    "name": "Chicken Burger",
+    "amt": 150,
+    "shop": "Burger Hub",
+    "ftype": "Fast Food",
+    "pic": "/images/20.jpg",
+    "latest": "yes"
+  }
+]

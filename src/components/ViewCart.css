@@ -1,0 +1,40 @@
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: max-content;
+}
+
+.cart-product {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+  border: 2px solid #ddd;
+  padding: 10px;
+}
+
+.cart-product img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.cart-product .img img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.c-head,
+.c-amount {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.c-empty {
+  color: tomato;
+  border: 2px solid #555;
+  padding: 10px;
+  border-radius: 5px;
+}
